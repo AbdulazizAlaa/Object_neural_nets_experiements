@@ -1,0 +1,7 @@
+*/*.jpg
+data/*
+test1/*
+train/*
+train_2/*
+*.pkl
+*.zip
